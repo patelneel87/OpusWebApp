@@ -13,3 +13,12 @@
 .panel-title {
 	font-size: 10px;
 }
+
+#ye {
+	text-align: center;
+}
+.navbar-custom {
+	background-color: white;
+	height: 70px;
+	padding-top: 10px;
+}
